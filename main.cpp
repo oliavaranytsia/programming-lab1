@@ -30,11 +30,7 @@ int main() {
             cout << "the closest point is B with distance:" << distance_to_b << endl;
         } else { cout << "distance is equal " << endl; }
     } else if (task == 2) {
-        cout << "" << endl;
-        cout << "===========" << endl;
         cout << "==TASK #2==" << endl;
-        cout << "===========" << endl;
-        cout << "" << endl;
 
         double x, result;
         cout << "write a number: " << endl;
