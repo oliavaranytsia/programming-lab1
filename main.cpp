@@ -12,7 +12,7 @@ int main() {
         cout << "==TASK #1==" << endl;
         cout << "write a x1 " << endl;
         cin >> xA;
-        cout << "write a y1 " << endl;
+        cout << "write a y1 " << eendl;
         cin >> yA;
         cout << "write b x2 " << endl;
         cin >> xB;
